@@ -1,0 +1,23 @@
+{
+  "name": "@rohittcodes/neon-osskit",
+  "version": "0.0.1",
+  "author": "rohittcodes",
+  "description": "A starter template for building next.js applications with neondb and other great tools.",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "next",
+    "drizzle",
+    "neon",
+    "neondb",
+    "starter",
+    "template",
+    "boilerplate"
+  ],
+  "license": "MIT"
+}
